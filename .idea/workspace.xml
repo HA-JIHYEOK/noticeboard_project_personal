@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="067a0df8-6019-482d-a3e4-e33a00dbd03d" name="변경" comment="">
+      <change afterPath="D:/noticeboard_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/noticeboard_project.iml" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/noticeboard_project/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/noticeboard_project" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="370xGK8IscPMeozvySgP2wdmiwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="067a0df8-6019-482d-a3e4-e33a00dbd03d" name="변경" comment="" />
+      <created>1766053693666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766053693666</updated>
+    </task>
+    <servers />
+  </component>
+</project>
